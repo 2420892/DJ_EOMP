@@ -71,7 +71,7 @@ export default {
   padding: 3rem 0;
 }
 .text-overlay {
-  background-image: url("https://i.postimg.cc/rsCx4gHY/20230728-American-Swiss-Spotlight-Diamond-Showcase-Update2-Desktop-896e055d61.jpg");
+  background-image: url("https://i.ibb.co/kJ3hRTy/Rectangle-8.png");
   background-size: cover;
   background-position: center;
   height: 380px;
